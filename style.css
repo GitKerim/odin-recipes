@@ -1,0 +1,35 @@
+#body {
+    background-color:coral;
+    text-align: center;
+}
+.naslov {
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+figure{
+    display: inline-block;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+.slike{
+    border-style: solid;
+    border-color: black;
+}
+.block{
+    background-color: lightsalmon;
+}
+.pizza{
+    border-style: solid;
+    border-color: black;
+    margin: 20px;
+}
+.float-left {
+    float:left;
+    width:33%;
+    text-align: center;
+}
+ul,li{
+    list-style-type: none;
+}
